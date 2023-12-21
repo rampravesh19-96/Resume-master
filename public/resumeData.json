@@ -1,0 +1,159 @@
+{
+  "main": {
+    "name":"Hey I m Shivanshu",
+    "description":"I am a web development engineer and I use ReactJs to develop pages. This project is a resume page ",
+    "image":"profilepic.jpg",
+    "bio":"I design and build websites. They are typically responsible for the appearance, of the site and technical aspects, such as site speed and how much traffic the site can handle. I may also create site content that requires technical features.",
+    "contactmessage":"Work in Progress... Soon Here Will Be a Contact Form",
+    "email": "shivanshu6525@gmail.com",
+    "phone": "7880811002",
+    "github":"https://github.com/Shivanshu-Upadhyay",
+    "project":"https://physiomaticaproject2.netlify.app/",
+    "address":{
+      "city":" From Delhi India"
+    },
+    "website": "https://shivanshuresume.netlify.app/",
+    "resumedownload":"shiva.pdf",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/shivanshu-upadhyay-317204201",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/shivanshu_upadhyay/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/Shivanshu-Upadhyay",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"My skill",
+    "education":[
+      {
+        "school":"CCSU",
+        "degree":"Bachelor of Computer Applications",
+        "graduated":"April 2022",
+        "description":"I completed my BCA from Ipem college in 2022, Here I learned many things that help me in present"
+      },
+      {
+        "school":"R.H.S.I College",
+        "degree":"12th",
+        "graduated":"March 2019",
+        "description":"I completed my 12th from R.H.S.I College in 2019, Here I learned many things that help me in present"
+      }
+    ],
+    "work":[
+      {
+        "company":"Physiomatica",
+        "title":"Frontend Devloper",
+        "years":"May 2021 -  Present",
+        "description":"The technology use in physiomatica is Material UI, React js, Node js, Express Js, and  MongoDB,. I worked frontend and backend both technology.... In the period of my Internship."
+      },
+      {
+        "company":"Futureminds",
+        "title":"Frontend Devloper",
+        "years":"January 2021 - April",
+        "description":"The technology use in Futureminds is HTML, CSS, JavaScript,Jquery,Bootstrap, I work frontend  technology.... In the period of my Internship."
+      }
+    ],
+    "skills":[
+      {
+        "name":"HTML",
+        "level":"80%"
+      },
+      
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      
+      {
+        "name":"JavaScript",
+        "level":"80%"
+      },
+      {
+        "name":"Bootstrap",
+        "level":"83%"
+      },
+      {
+        "name":"NodeJs",
+        "level":"47%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"52%"
+      },
+      
+      
+      {
+        "name":"ExpressJs",
+        "level":"52%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"61%"
+      },
+      {
+        "name":"React-Native",
+        "level":"69%"
+      }
+      
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"My Resume Website",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"01.png",
+        "url":"https://shivanshuresume.netlify.app/"
+      },
+      {
+        "title":"React-Website",
+        "category":"My Project",
+        "image":"05.png",
+        "url":"https://minor-college1.web.app/"
+      },
+      {
+        "title":"Website",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"02.png",
+        "url":"https://physiomaticaproject2.netlify.app/"
+      },
+      {
+        "title":"HTML CSS JS Website",
+        "category":"My first Project",
+        "image":"03.png",
+        "url":"https://shivanshuproject1.netlify.app/"
+      },
+      
+      {
+        "title":"React Dashboard",
+        "category":"A React based resume website template",
+        "image":"04.png",
+        "url":"https://physiomatica.netlify.app/clinictoday"
+      }
+      
+      
+      
+      
+      
+    ]
+  }
+}
